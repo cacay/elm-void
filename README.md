@@ -1,3 +1,6 @@
+# Deprecated
+
+Use `Never` from [core/Basics](http://package.elm-lang.org/packages/elm-lang/core/latest/Basics).
 
 # Elm Void
 
